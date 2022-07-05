@@ -21,7 +21,9 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(actual, expected)
 
     def test_division(self):
-        pass
+        actual = calc.subtraction(10, 2)
+        expected = 5
+        self.assertEqual(actual, expected)
 
 if __name__ == '__main__':
     unittest.main()
