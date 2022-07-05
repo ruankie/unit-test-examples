@@ -15,3 +15,6 @@ class TestCalculator(unittest.TestCase):
 
     def test_division(self):
         pass
+
+if __name__ == '__main__':
+    unittest.main()
