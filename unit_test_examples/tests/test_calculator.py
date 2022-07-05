@@ -2,7 +2,7 @@ import unittest
 import unit_test_examples.tools.calculator as calc
 
 class TestCalculator(unittest.TestCase):
-    """For testing various methods in the Calculator class.
+    """Tests various functions in the calculator module.
     """
 
     def test_addition(self):
