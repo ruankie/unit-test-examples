@@ -28,9 +28,8 @@
   - [x] Subtraction
   - [x] Multiplication
   - [x] Division
-- [ ] JSON file reader tests (and code to make them pass)
-  - [ ] Read file (use mocking)
-  - [ ] Do something with file contents
+- [x] JSON file reader tests (and code to make them pass)
+  - [x] Read file (use mocking)
 - [ ] Use Github actions to run all tests when:
   - [ ] PR is made to merge with `main`
   - [ ] Committing
