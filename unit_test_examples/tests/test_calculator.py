@@ -1,11 +1,14 @@
 import unittest
+import unit_test_examples.tools.calculator as calc
 
 class TestCalculator(unittest.TestCase):
     """For testing various methods in the Calculator class.
     """
 
     def test_addition(self):
-        pass
+        actual = calc.addition(1, 4)
+        expected = 5
+        self.assertEqual(actual, expected)
 
     def test_subtraction(self):
         pass

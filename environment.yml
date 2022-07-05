@@ -1,0 +1,10 @@
+name: unit_test_examples
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.7
+  - pip
+  - pip:
+    - numpy==1.23.0
+    - -e .
