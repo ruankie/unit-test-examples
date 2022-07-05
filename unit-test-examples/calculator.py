@@ -1,11 +1,11 @@
-def addition(self):
+def addition():
     pass
 
-def subtraction(self):
+def subtraction():
     pass
 
-def multiplication(self):
+def multiplication():
     pass
 
-def division(self):
+def division():
     pass
