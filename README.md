@@ -23,11 +23,11 @@
    ```
 
 # TODO (Roadmap)
-- [ ] Simple calculator tests (and code to make them pass)
-  - [ ] Addition
-  - [ ] Subtraction
-  - [ ] Multiplication
-  - [ ] Division
+- [x] Simple calculator tests (and code to make them pass)
+  - [x] Addition
+  - [x] Subtraction
+  - [x] Multiplication
+  - [x] Division
 - [ ] JSON file reader tests (and code to make them pass)
   - [ ] Read file (use mocking)
   - [ ] Do something with file contents
