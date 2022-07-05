@@ -40,3 +40,4 @@
 * https://www.youtube.com/watch?v=6tNS--WetLI
 * https://www.youtube.com/watch?v=WFRljVPHrkE
 * https://www.youtube.com/watch?v=_OyuFg9pGQg
+* https://support.oneskyapp.com/hc/en-us/articles/208047697-JSON-sample-files
