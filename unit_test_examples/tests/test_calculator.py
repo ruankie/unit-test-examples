@@ -16,7 +16,9 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(actual, expected)
 
     def test_multiplication(self):
-        pass
+        actual = calc.subtraction(3, 2)
+        expected = 6
+        self.assertEqual(actual, expected)
 
     def test_division(self):
         pass
